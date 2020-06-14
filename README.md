@@ -21,5 +21,6 @@ The study is reported in the following reference:<br/>
 Abivardi A.\*, Khemka S.\*, Bach D.R. (2020) Neural representation of threat features 
 and behavior in a human approach-avoidance conflict anxiety task (revision submitted)
 
+Citation for this repository: Abivardi A, Khemka S, Bach DR (2020) a-abivardi/neural-threat-behavior-AAC-fMRI: Neural representation of threat features and behavior in a human approach-avoidance conflict anxiety task: Unthresholded SPM activation maps. Zenodo. https://doi.org/10.5281/zenodo.3893443.
 
 
