@@ -19,7 +19,7 @@ A = action (approach / avoidance)
 
 The study is reported in the following reference:<br/>
 Abivardi A.\*, Khemka S.\*, Bach D.R. (2020) Neural representation of threat features 
-and behavior in a human approach-avoidance conflict anxiety task (revision submitted)
+and behavior in a human approach-avoidance conflict anxiety task (submitted)
 
 Citation for this dataset: https://doi.org/10.5281/zenodo.3893443.
 
