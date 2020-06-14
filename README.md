@@ -5,7 +5,7 @@ Repository Version: 10 June 2020
 This dataset includes group-level results from multifold parametric analyses of a high-resolution fMRI
 approach-avoidance conflict anxiety task (n = 19). SPM Results are divided in primary 
 analyses using a 8 mm FWHM smoothing kernel, and secondary (localization)
-anaylses using a 4 mm FWHM kernel. 
+analyses using a 4 mm FWHM kernel. 
 
 Parametric modulators of BOLD activation were set up with serial orthogonalization in the following order:<br/> 
 P1: TP, TM, TP x TM<br/>
